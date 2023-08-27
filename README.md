@@ -17,11 +17,11 @@ ADキーを同時押ししながらWSキーでゆっくりと前後進するこ�
 ![diagram_top](https://github.com/saikiRA1011/Mappingcon/blob/main/image/diagram_top.png "回路図上側")  
 回路図上側
 
-![diagram_bottom](https://github.com/saikiRA1011/Mappingcon/blob/main/image/diagram_top.png "回路図下側")  
+![diagram_bottom](https://github.com/saikiRA1011/Mappingcon/blob/main/image/diagram_bottom.png "回路図下側")  
 回路図下側
 
 ![case](https://github.com/saikiRA1011/Mappingcon/blob/main/image/case.jpg "ケース実装例")  
 ケース実装例
 
-![circuit](https://github.com/saikiRA1011/Mappingcon/blob/main/image/circuit.jpg "表面実装例")
+![circuit](https://github.com/saikiRA1011/Mappingcon/blob/main/image/circuit.jpg "表面実装例")  
 表面実装の例
